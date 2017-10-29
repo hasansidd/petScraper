@@ -1,5 +1,6 @@
 package petScraper;
 import org.jsoup.Jsoup;
+import petScraper.Cat;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -13,20 +14,33 @@ import java.util.ArrayList;
 
 public class Main {
 	static ArrayList<Dog> dogInfo = new ArrayList<>();
+	static ArrayList<Cat> catInfo = new ArrayList<>();
 
 	public static void main(String[] args) throws Exception {
 		downloadDogInfo("https://www.austinpetsalive.org/adopt/dogs/");
-		
+		downloadCatInfo("https://www.austinpetsalive.org/adopt/cats/");
+
 		for (int i=0; i<dogInfo.size(); i++) {
 			System.out.println(String.valueOf(i)+"/"+dogInfo.size());
-			
 			getIDinfo(i);
 		}
+		
+		for (int i=0; i<catInfo.size(); i++) {
+			System.out.println(String.valueOf(i)+"/"+catInfo.size());
+			getcatIDinfo(i);
+		}
+		
 		System.out.println("done");
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
-		try ( final FileWriter fileWriter = new FileWriter(new File("petScaperJSON.txt")) ) {
+		try ( final FileWriter fileWriter = new FileWriter(new File("dogScaperJSON.txt")) ) {
 			gson.toJson(dogInfo, fileWriter);
+		}
+		
+		gson = new GsonBuilder().setPrettyPrinting().create();
+
+		try ( final FileWriter fileWriter = new FileWriter(new File("catScaperJSON.txt")) ) {
+			gson.toJson(catInfo, fileWriter);
 		}
 	}
 
@@ -143,6 +157,81 @@ public class Main {
 	        System.out.println(dogInfo.get(i[0]).getHomeAlone());*/
 
 	}
+
+	public static void downloadCatInfo(String... urls) {
+		try {
+			Document doc = Jsoup.connect(urls[0]).get();
+			Elements catNames = doc.select("h3");
+			Elements catURLs = doc.select("img[class=photo]");
+			Elements catID =doc.select("a[rel=bookmark]");
+
+			for (Element e : catURLs) {
+				Cat cat = new Cat();
+				cat.addURL(e.attr("src"));
+				catInfo.add(cat);
+			}
+
+			for (int i = 0; i < catInfo.size(); i++) {
+				catInfo.get(i).setName(catNames.get(i).text());
+			}
+
+			for (int i = 0; i < catInfo.size(); i++) {
+				catInfo.get(i).setIDURL("https://www.austinpetsalive.org" + catID.get(i).attr("href"));
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public static void getcatIDinfo(Integer... i) {
+		//Details about each animal
+		try {
+			String URL = catInfo.get(i[0]).getIDURL();
+			Document docID = Jsoup.connect(URL).get();
+			Elements catIDStats = docID.select("td");
+			Elements catDescription = docID.select("span[id=lbDescription]");
+			Elements catExtraUrls = docID.select("img[id=Photo1]");
+
+			catInfo.get(i[0]).setID(catIDStats.get(0).text());
+			catInfo.get(i[0]).setSex(catIDStats.get(1).text());
+			catInfo.get(i[0]).setBreed(catIDStats.get(2).text());
+			catInfo.get(i[0]).setWeight(catIDStats.get(3).text());
+			catInfo.get(i[0]).setDOB(catIDStats.get(4).text());
+			catInfo.get(i[0]).setAge(catIDStats.get(5).text());
+			catInfo.get(i[0]).setLocation(catIDStats.get(6).text());
+
+			catInfo.get(i[0]).setDescription(catDescription.text());
+
+			for (int k = 0; k < catExtraUrls.size(); k++) {
+				catInfo.get(i[0]).URL.add(catExtraUrls.get(k).attr("src"));
+			}
+
+//			System.out.print("Name: ");
+//			System.out.println(catInfo.get(i[0]).getName());
+//			System.out.print("Sex: ");
+//			System.out.println(catInfo.get(i[0]).getSex());
+//			System.out.println("Breed: ");
+//			System.out.println(catInfo.get(i[0]).getBreed());
+//			System.out.println("Weight: ");
+//			System.out.println(catInfo.get(i[0]).getWeight());
+//			System.out.println("DOB: ");
+//			System.out.println(catInfo.get(i[0]).getDOB());
+//			System.out.println("Age: ");
+//			System.out.println(catInfo.get(i[0]).getAge());
+//			System.out.println("Location: ");
+//			System.out.println(catInfo.get(i[0]).getLocation());
+//			System.out.println("ID: ");
+//			System.out.println(catInfo.get(i[0]).getID());
+//			System.out.println("URL: ");
+//			System.out.println(catInfo.get(i[0]).getURL().toString());
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+
+
 
 }
 
