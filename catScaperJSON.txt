@@ -1765,7 +1765,7 @@
     "DOB": "2009-07-22",
     "age": "8 years, 5 months",
     "location": "TLAC Cattery",
-    "description": "Loving, Chill, Kindhearted Monte is a handsome, butterscotch-colored fella, ready for a career switch from cool tomboy to affectionate housecat! This big ol\u0027 lovebug is so laidback and adores when you rub the back of his neck. Monte\u0027s proportions are adorably different. His head is a bit oversized and has a slight tilt due to an ear infection that has since healed. We find his askew noggin endearing, kind of like that favorite stuffed animal you always kept near you as a kid. Head to the side, shape a little different...those were the very features that made you want to hold your special love that much closer. Monte\u0027s balance is thrown off a little now and then. But, it doesn\u0027t stop him from meandering around and has no effect on his healthy appetite! Monte is very personable and would likely get along well with loving children. His relaxed temperament makes him well suited for most any home. If you\u0027re looking for an affectionate cat who is mellow and sweet, Monte is up for the job! Come by for an interview and a one-on-one petting with this highly qualified kitty today! All APA! cats are fully vetted, spayed or neutered, and have updated vaccines and a microchip. Lifetime support is offered by our Cat Behavior Team. For further information or to meet Monte, please email us at [email protected]tinpetsalive.org.",
+    "description": "Loving, Chill, Kindhearted Monte is a handsome, butterscotch-colored fella, ready for a career switch from cool tomboy to affectionate housecat! This big ol\u0027 lovebug is so laidback and adores when you rub the back of his neck. Monte\u0027s proportions are adorably different. His head is a bit oversized and has a slight tilt due to an ear infection that has since healed. We find his askew noggin endearing, kind of like that favorite stuffed animal you always kept near you as a kid. Head to the side, shape a little different...those were the very features that made you want to hold your special love that much closer. Monte\u0027s balance is thrown off a little now and then. But, it doesn\u0027t stop him from meandering around and has no effect on his healthy appetite! Monte is very personable and would likely get along well with loving children. His relaxed temperament makes him well suited for most any home. If you\u0027re looking for an affectionate cat who is mellow and sweet, Monte is up for the job! Come by for an interview and a one-on-one petting with this highly qualified kitty today! All APA! cats are fully vetted, spayed or neutered, and have updated vaccines and a microchip. Lifetime support is offered by our Cat Behavior Team. For further information or to meet Monte, please email us at ado[email protected]",
     "ID": "APA-A-50539"
   },
   {
@@ -3686,8 +3686,8 @@
   {
     "name": "Steve",
     "URL": [
-      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/02/13/20180102133126.png",
-      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/02/13/20180102133126.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103160328.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103160328.png",
       "https://www.shelterluv.com/sites/default/files/animal_pics/464/2017/09/16/19/20170916190641.png",
       "https://www.shelterluv.com/sites/default/files/animal_pics/464/2017/12/29/12/20171229124627.png",
       "https://www.shelterluv.com/sites/default/files/animal_pics/464/2017/12/29/12/20171229124641.png"
@@ -3699,7 +3699,7 @@
     "DOB": "2015-09-02",
     "age": "2 years, 4 months",
     "location": "Foster Home",
-    "description": "Steve came to Rally C Ranch as a foster for APA! with a group of 24 cats that were rescued from Wharton County. Steve\u0027s paperwork said he was \"feral and \"kind of a jerk. Well, Steve is definitely not feral and will chose neck rubs and pets even over cookies! Steve did show some of the behaviors that earned him the \"jerk label. He got overwhelmed and over stimulated and would scratch and try to bite through his kennel. He was desperate for human attention and didn\u0027t know how to get attention appropriately. In an effort to put a positive spin - he was named Steve from Steve Martin in \"The Jerk! Steve is actually not a jerk at all. He is a very loving cat who is just desperate for attention and interaction! Steve is always the first one to start talking to his fosters and loves to talk about his day with them! As Steve has settled in and the number of foster cats living at Rally C Ranch has gone down, Steve has earned more time out of his kennel to play with some of the other kitties. He helps with evening chores, loves playing with toys and the more time he gets to play and interact, the better his behavior gets. He is such a lovebug with his fosters and does great with other male cats. He hasn\u0027t been around female cats yet, but he is so great with the male cats he should be great! He still gets a little bit excited and sometimes reaches out to his humans without remembering to bring his claws in ... but he just really wants to be loved!! Steve\u0027s fosters run a horse rescue and visitors to the ranch quite often, many of whom, get to meet Steve. He prefers people who understand cat behavior and can read his signals when he is getting too excited. He also prefers people with calm, relaxed energy. He feeds off high energy people and that sometimes contributes to him getting overwhelmed. In the right family, this guy will fully shed the inaccurate shelter labels of \"feral and \"kind of a jerk and blossom into the most amazing and loving cat! Steve is one of hundreds of cats and kittens that APA! has rescued from the perils of Hurricane Harvey. Most of these kitties are up for adoption and in need of a forever home. The greatest result of a rescue is the creation of loving relationships. Share in this joy with us and adopt a cat or kitten and create your own rescue love story! All APA! cats are fully vetted, spayed or neutered, and have updated vaccines and a microchip. Lifetime support is offered by our Cat Behavior Team. For further information or to meet Steve, please email [email protected]",
+    "description": "Steve was placed in foster at Rally C Ranch with a group of 24 cats that Austin Pets Alive! rescued from Wharton County. Steve\u0027s paperwork said he was \"feral and \"kind of a jerk. Well, Steve is definitely not feral and will chose neck rubs and pets even over cookies! Steve did show some of the behaviors that earned him the \"jerk\" label. He got overwhelmed and over stimulated and would scratch and try to bite through his kennel. He was desperate for human attention and didn\u0027t know how to get attention appropriately. In an effort to put a positive spin - he was named Steve from Steve Martin in \"The Jerk!\" Steve is actually not a jerk at all. He is a very loving cat who is just desperate for attention and interaction! Steve is always the first one to start talking to his fosters and loves to talk about his day with them! As Steve has settled in and the number of foster cats living at Rally C Ranch has gone down, Steve has earned more time out of his kennel to play with some of the other kitties. He helps with evening chores, loves playing with toys and the more time he gets to play and interact, the better his behavior gets. He is such a lovebug with his fosters and does great with other male cats. He hasn\u0027t been around female cats yet, but he is wonderful with the male cats he should be great! He still gets a little bit excited and sometimes reaches out to his humans without remembering to bring his claws in... but he just really wants to be loved! Steve\u0027s fosters run a horse rescue and visitors to the ranch quite often, many of whom, get to meet Steve. He prefers people who understand cat behavior and can read his signals when he is getting too excited. He also prefers people with calm, relaxed energy. He feeds off high energy people and that sometimes contributes to him getting overwhelmed. In the right family, this guy will fully shed the inaccurate shelter labels of \"feral\" and \"kind of a jerk\" and blossom into the most amazing and loving cat! Steve is one of hundreds of cats and kittens that APA! has rescued from the perils of Hurricane Harvey. Most of these kitties are up for adoption and in need of a forever home. The greatest result of a rescue is the creation of loving relationships. Share in this joy with us and adopt a cat or kitten and create your own rescue love story! Steve is one of hundreds of cats and kittens that APA! has rescued from the perils of Hurricane Harvey. Most of these kitties are up for adoption and in need of a forever home. The greatest result of a rescue is the creation of loving relationships. Share in this joy with us and adopt a cat or kitten and create your own rescue love story! All APA! cats are fully vetted, spayed or neutered, and have updated vaccines and a microchip. Lifetime support is offered by our Cat Behavior Team. For further information or to meet Steve, please email [email protected]",
     "ID": "APA-A-52376"
   },
   {
@@ -5240,10 +5240,11 @@
   {
     "name": "Porridge 23",
     "URL": [
-      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/01/19/20180101191705.png",
-      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/01/19/20180101191705.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161440.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161440.png",
       "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/01/19/20180101191644.png",
-      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/01/19/20180101191717.png"
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/01/19/20180101191705.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161429.png"
     ],
     "IDURL": "https://www.austinpetsalive.org/adopt/available-cat-details/?ID\u003d53534",
     "sex": "M",
@@ -8775,7 +8776,7 @@
     "IDURL": "https://www.austinpetsalive.org/adopt/available-cat-details/?ID\u003d55241",
     "sex": "F",
     "breed": "Domestic Shorthair",
-    "weight": "2.4714 pounds",
+    "weight": "2.88 pounds",
     "DOB": "2017-10-25",
     "age": "2 months",
     "location": "Foster Home",
@@ -9158,7 +9159,7 @@
     "weight": "7.8 pounds",
     "DOB": "2015-11-30",
     "age": "2 years, 1 month",
-    "location": "Off SIte Tarrytown Cattery",
+    "location": "TLAC FeLV Sanctuary",
     "description": "Friendly, Curious, Lap-Cat Extraordinaire Nutmeg is in search of a human to call her own. This friendly kitty is a people lover who can\u0027t wait to see you and who wishes cuddle time would never end! She will immediately jump into your lap and is ready to stay all day getting rubs and giving purrs. That lovely necklace she wears is the real deal...created with her very own tabby stripes, this versatile accessory means she\u0027s always ready for formal engagements as well as the most casual of snuggle sessions. Entertainment is never an issue with this charming girl! She is highly engaging and animated whether she\u0027s playing with a string toy or seeking your affection. She gets along fine with other cats. But, she is happiest when she\u0027s the one who has dibs on your lap, her favorite spot! Nutmeg is FeLV+ (Feline Leukemia Virus), which causes a weakened immune system and requires special care. APA! provides some medical assistance after adoption. Cats with FeLV typically have a shortened lifespan. Nutmeg is not contagious to people or dogs, but should live only with other FeLV+ cats. For more information, please contact APA! or read more by our Partner, Best Friends Animal Society: http://bestfriends.org/Resources/FAQs-About-Feline-Leukemia-Virus-FeLV Nutmeg would be the perfect companion for someone who is home most of the time so that she can enjoy her person throughout the day. Share your lap and your love and this sweetheart will make it worth your while! If Nutmeg sounds like the furry friend you\u0027ve been looking for, she\u0027s all dressed up and ready to meet you! Come by and introduce yourself today! All APA! cats are fully vetted, spayed or neutered, and have updated vaccines and a microchip. Lifetime support is offered by our Cat Behavior Team. For further information or to meet Nutmeg, please email us at [email protected]",
     "ID": "APA-A-55404"
   },
@@ -9264,8 +9265,12 @@
   {
     "name": "Otter",
     "URL": [
-      "https://www.shelterluv.com/sites/default/files/default_images/default_cat.png",
-      "https://www.shelterluv.com/sites/default/files/default_images/default_cat.png"
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161049.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161049.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161101.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161112.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161125.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161140.png"
     ],
     "IDURL": "https://www.austinpetsalive.org/adopt/available-cat-details/?ID\u003d55445",
     "sex": "M",
@@ -9528,7 +9533,9 @@
       "https://www.shelterluv.com/sites/default/files/animal_pics/464/2017/12/18/10/20171218104957.png",
       "https://www.shelterluv.com/sites/default/files/animal_pics/464/2017/12/18/10/20171218105139.png",
       "https://www.shelterluv.com/sites/default/files/animal_pics/464/2017/12/18/10/20171218105301.png",
-      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2017/12/18/10/20171218105759.png"
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2017/12/18/10/20171218105759.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161530.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/03/16/20180103161537.png"
     ],
     "IDURL": "https://www.austinpetsalive.org/adopt/available-cat-details/?ID\u003d55612",
     "sex": "M",
@@ -9925,7 +9932,7 @@
     "weight": "6.87 pounds",
     "DOB": "2015-12-18",
     "age": "2 years, 0 months",
-    "location": "Off SIte Tarrytown Cattery",
+    "location": "TLAC FeLV Sanctuary",
     "description": "",
     "ID": "APA-A-55686"
   },
@@ -9957,7 +9964,7 @@
     "weight": "12.5 pounds",
     "DOB": "2015-12-18",
     "age": "2 years, 0 months",
-    "location": "TLAC FeLV Sanctuary",
+    "location": "Off SIte Tarrytown Cattery",
     "description": "",
     "ID": "APA-A-55688"
   },

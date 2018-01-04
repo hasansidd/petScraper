@@ -9081,6 +9081,26 @@
     "description": "I am the most perfect-est doggy in the whole wide world! At least that is what my human friends at the shelter say about me. They comment on how sweet and affectionate I am with people, how well I do with dogs of all sizes, and say that I am potty trained. I briefly lived in a home with kids and was a total love bug. I first came to APA! about 4 years ago. I was adopted by a nice lady who took care of me over the years but unfortunately she found herself unable to provide a good home for me and had to return me to the shelter. I was really sad for a couple of days but happy to see my old human friends at APA!. It has been fun to see familiar faces here but I am ready to get adopted again by someone wonderful so we can go on walks together and cuddle under blankies on the couch. Are you looking for the perfect doggy, \u0027cause here I am!"
   },
   {
+    "name": "Snuggles",
+    "URL": [
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/02/16/20180102165642.png",
+      "https://www.shelterluv.com/sites/default/files/animal_pics/464/2018/01/02/16/20180102165642.png"
+    ],
+    "energyLevel": "U",
+    "childLevel": "U",
+    "catLevel": "U",
+    "dogLevel": "U",
+    "homeAlone": "U",
+    "ID": "55928",
+    "sex": "F",
+    "breed": "Husky, Siberian Mix",
+    "weight": "42.6 pounds",
+    "DOB": "2014-01-02",
+    "age": "4 years, 0 months",
+    "location": "In Foster email [email protected] to inquire",
+    "description": ""
+  },
+  {
     "name": "Monty",
     "URL": [
       "https://www.shelterluv.com/sites/default/files/animal_pics/464/2017/06/18/07/20170618074248_0.png",
